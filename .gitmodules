@@ -1,0 +1,3 @@
+[submodule "github.com/spf13/pflag"]
+	path = src/github.com/spf13/pflag
+	url = https://github.com/spf13/pflag.git
